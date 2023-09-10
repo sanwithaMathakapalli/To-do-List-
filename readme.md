@@ -21,6 +21,6 @@ A simple to-do list application implemented in Python.
 
 ## Usage
 
--Use the menu options to interact with the to-do list.
--Follow the on-screen instructions to add, view, complete, and remove tasks.
--Save and load tasks to/from a file for data persistence.
+- Use the menu options to interact with the to-do list.
+- Follow the on-screen instructions to add, view, complete, and remove tasks.
+- Save and load tasks to/from a file for data persistence.
